@@ -3,3 +3,5 @@ CherryPy
 pycurl
 importlib
 mock # only used for livestatus test
+unittest2
+pbr
